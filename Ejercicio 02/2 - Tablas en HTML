@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Título</th>
+            <th>Autor</th>
+            <th>Año de publicación</th>
+            <th>Enlace a Amazon</th>
+        </tr>
+        <tr>
+            <td>Libro1</td>
+            <td>Autor del Libro1</td>
+            <td>Año de publicación Libro1</td>
+            <td><a href="amazon.com">Enlace Libro1</a></td>
+        </tr>
+        <tr>
+            <td>Libro2</td>
+            <td>Autor del Libro2</td>
+            <td>Año de publicación Libro2</td>
+            <td><a href="amazon.com">Enlace Libro2</a></td>
+        </tr>
+        <tr>
+            <td>Libro3</td>
+            <td>Autor del Libro3</td>
+            <td>Año de publicación Libro3</td>
+            <td><a href="amazon.com">Enlace Libro3</a></td>
+        </tr>
+    </table>    
+</body>
+</html>
